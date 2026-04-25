@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter (if you use later)
+.ipynb_checkpoints/
+
+# Chroma DB (VERY IMPORTANT for your project)
+chroma/
+chromadb/
+
+# Build / dist
+build/
+dist/
+*.egg-info/
